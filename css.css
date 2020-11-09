@@ -1,0 +1,423 @@
+body
+ {
+	 font-family: 'Montserrat', sans-serif;
+	  margin: 0px;
+	  font-size:20px;
+ }
+ 
+ header
+ {
+	position:absolute;
+	text-decoration : none;
+	background-color:#2859BF;
+	height: 60px;
+	padding: 5px;
+	width: 100%;
+	position:fixed;
+	z-index:6;
+	
+ }
+
+ footer
+ {
+	 
+	
+	
+	text-decoration : none;
+	background-color:#2859BF;
+	color: white;
+	
+	padding: 40px;
+	height: 70px;
+	text-align:center;
+ }
+  .ul1
+ {
+	 top: 50px;
+	list-style-type: none; 
+	text-align:right;
+	text-decoration : none;
+	
+	
+	 
+ }
+   .ul2
+ {
+	 	 position: relative;
+	 bottom: 10% ; left:-120%;
+	list-style-type: none; 
+	text-align:left;
+	text-decoration : none;
+	
+	
+	 
+ }
+    .ul3
+ {
+
+	list-style-type: none; 
+	text-align:center;
+	text-decoration : none;
+	
+	
+	 
+ }
+  .lin
+ {
+	
+	font-size: 20px;
+	display: inline;
+	
+ }
+
+  table
+ {
+	position: relative;
+	left: 38%;
+	
+	text-align: justify;
+	line-height : 1.5;
+	
+ }
+ td
+ {
+	 padding: 5px;
+	 
+	 
+ }
+ .g-recaptcha
+ {
+	 
+	 position: relative;
+	 bottom: 50px ; left:200px;
+	
+	 
+ 
+ }
+ .soc
+ {
+	 
+	 padding: 5px;
+	 text-align:left;
+	 
+ }
+ .bloc 	
+ {
+	 position:absolute;
+	 background-color: white;
+	 padding: 5px;
+	 position:fixed;
+	z-index:6;
+	bottom: 14%; 
+	height: 23%;
+	width: 2%;
+	margin: 20px;
+	text-align:left;
+	border: 4px solid black;
+ }
+ .bloc2	
+ {
+	 position:absolute;
+	 background-color: white;
+	 padding: 5px;
+	 position:fixed;
+	z-index:6;
+	bottom: 14%; 
+	height: 23%;
+	width: 2%;
+	margin: 20px;
+	text-align:rigth;
+ }
+.inssensiblien
+{
+
+				text-decoration : none;
+				color: white;
+				Font-weight : bold;
+}
+
+.inssensiblien2 
+{
+
+				text-decoration : none;
+				color: white;
+				text-decoration : underline;
+
+				
+}
+.inssensiblien3
+{
+
+				text-decoration : none;
+				color: black;
+				Font-weight : bold;
+}
+.pos
+{
+	position: relative;
+	top: -40px; left:-80px;
+}
+.pos2
+{
+	position: relative;
+	left:80px;
+	text-decoration : none;
+	color: white;
+	Font-weight : bold;
+	font-size:20px;
+}
+
+div
+{
+	text-align:center;
+	padding: 100px;
+	background-color:#0685BD;
+	color: white;
+	
+}
+.g-recaptcha {
+margin:0;
+padding:0;
+}
+.neant
+{
+	text-align:center;
+	padding: 0px;
+	background-color:transparent;
+	color: black;
+	Font-weight : bold;
+	position: relative;
+	top: 270px; 
+}
+.neant2
+{
+	text-align:center;
+	padding: 0px;
+	background-color:transparent;
+	color: black;
+	Font-weight : bold;
+	position: relative;
+	top: 120px; 
+}
+.neant3
+{
+	text-align:center;
+	padding: 0px;
+	background-color:transparent;
+	color: black;
+	Font-weight : bold;
+	
+}
+.neant4
+{
+	text-align:center;
+	padding: 0px;
+	background-color:transparent;
+	color: black;
+	Font-weight : bold;
+	
+}
+section
+{
+	text-align:center;
+	padding: 100px;
+	background-color:#2859BF;
+	color: white;
+	
+}
+.gauche
+{
+	text-align:left;
+	text-align: justify;
+	
+}
+.gaucheextra
+{
+	text-align:left;
+	text-align: justify;
+	line-height : 1.5;
+	
+}
+
+.backimage
+
+{
+	
+	background: url("image/banniere4.png") no-repeat fixed;
+	
+	padding: 290px;
+	
+	
+}
+.ligne
+
+{
+
+	padding: 25px;
+	
+}
+.container2
+ 
+ {
+	 font-size: 14px;
+	 padding: 10px;
+
+	
+	 text-align:center;
+	 width : 1127px;
+	 
+	 
+	border-color: lightblue;
+	border-style: solid;
+	Font-weight : bold;
+	background-color: white;
+	width : 50%;
+	color: black; 
+	 margin: 60px auto;
+	 
+ }
+.container3 {
+  margin: 60px auto;
+  width: 400px;
+  text-align: center;
+   padding: 0px;
+}
+
+.container3 .progress {
+  margin: 0 auto;
+  width: 400px;
+   padding: 0px;
+}
+
+.progress {
+  padding: 4px;
+  background: rgba(0, 0, 0, 0.25);
+  border-radius: 6px;
+  -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25), 0 1px rgba(255, 255, 255, 0.08);
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25), 0 1px rgba(255, 255, 255, 0.08);
+  padding: 5px;
+}
+.progress2 {
+  padding: 0px;
+  background: rgba(0, 0, 0, 0.25);
+  border-radius: 6px;
+  -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25), 0 1px rgba(255, 255, 255, 0.08);
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25), 0 1px rgba(255, 255, 255, 0.08);
+  width: 400px;
+  	position: relative;
+	left:34%;
+}
+.progress-bar {
+  height: 16px;
+  border-radius: 4px;
+	background-image: -webkit-linear-gradient(top, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+  background-image: -moz-linear-gradient(top, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+  background-image: -o-linear-gradient(top, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+  -webkit-transition: 0.4s linear;
+  -moz-transition: 0.4s linear;
+  -o-transition: 0.4s linear;
+  transition: 0.4s linear;
+  -webkit-transition-property: width, background-color;
+  -moz-transition-property: width, background-color;
+  -o-transition-property: width, background-color;
+  transition-property: width, background-color;
+  -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.25), inset 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.25), inset 0 1px rgba(255, 255, 255, 0.1);
+  width: 70%;
+  background-color: #f2d31b;
+  padding: 5px;
+  
+}
+.progress-bar2 {
+  height: 16px;
+  border-radius: 4px;
+	background-image: -webkit-linear-gradient(top, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+  background-image: -moz-linear-gradient(top, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+  background-image: -o-linear-gradient(top, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+  -webkit-transition: 0.4s linear;
+  -moz-transition: 0.4s linear;
+  -o-transition: 0.4s linear;
+  transition: 0.4s linear;
+  -webkit-transition-property: width, background-color;
+  -moz-transition-property: width, background-color;
+  -o-transition-property: width, background-color;
+  transition-property: width, background-color;
+  -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.25), inset 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.25), inset 0 1px rgba(255, 255, 255, 0.1);
+  width: 50%;
+  background-color: #f2b01e;
+  padding: 5px;
+  
+}
+.progress-bar3 {
+  height: 16px;
+  border-radius: 4px;
+	background-image: -webkit-linear-gradient(top, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+  background-image: -moz-linear-gradient(top, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+  background-image: -o-linear-gradient(top, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+  -webkit-transition: 0.4s linear;
+  -moz-transition: 0.4s linear;
+  -o-transition: 0.4s linear;
+  transition: 0.4s linear;
+  -webkit-transition-property: width, background-color;
+  -moz-transition-property: width, background-color;
+  -o-transition-property: width, background-color;
+  transition-property: width, background-color;
+  -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.25), inset 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.25), inset 0 1px rgba(255, 255, 255, 0.1);
+  width: 60%;
+  background-color: #f2b01e;
+  padding: 5px;
+  
+}
+.progress-bar4 {
+  height: 16px;
+  border-radius: 4px;
+	background-image: -webkit-linear-gradient(top, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+  background-image: -moz-linear-gradient(top, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+  background-image: -o-linear-gradient(top, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+  -webkit-transition: 0.4s linear;
+  -moz-transition: 0.4s linear;
+  -o-transition: 0.4s linear;
+  transition: 0.4s linear;
+  -webkit-transition-property: width, background-color;
+  -moz-transition-property: width, background-color;
+  -o-transition-property: width, background-color;
+  transition-property: width, background-color;
+  -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.25), inset 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.25), inset 0 1px rgba(255, 255, 255, 0.1);
+  width: 30%;
+  background-color: #f27011;
+  padding: 5px;
+  
+}
+#five:checked ~ .progress > .progress-bar {
+  width: 5%;
+  background-color: #f63a0f;
+}
+
+#twentyfive:checked ~ .progress > .progress-bar {
+  width: 25%;
+  background-color: #f27011;
+}
+
+#fifty:checked ~ .progress > .progress-bar {
+  width: 50%;
+  background-color: #f2b01e;
+}
+
+#seventyfive:checked ~ .progress > .progress-bar {
+  width: 75%;
+  background-color: #f2d31b;
+}
+
+#onehundred:checked ~ .progress > .progress-bar {
+  width: 100%;
+  background-color: #86e01e;
+}
+
+
