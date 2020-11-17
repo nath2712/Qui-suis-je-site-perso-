@@ -54,7 +54,7 @@
                                     <ul>Message : '.nl2br($_POST['message']). '</ul>
                                 </body>
                             </html>';
-                            mail(, "Mail contact profil pro", $message, $header); //envoi du mail avec la fonction mail(adresse cible, objet, message et en-tête)
+                            mail("", "Mail contact profil pro", $message, $header); //envoi du mail avec la fonction mail(adresse cible, objet, message et en-tête)
                             $msg="<p class='form_succes'><i class='fas fa-check'></i> Votre message à bien été envoyé !</p>";
                         }else{
                             $msg="<p class='form_error'>Veuillez compléter tout les champs !</p>";
