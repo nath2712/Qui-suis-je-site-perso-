@@ -1,8 +1,15 @@
 body
  {
-	 font-family: 'Montserrat', sans-serif;
+	 font-family: 'tahoma', sans-serif;
 	  margin: 0px;
 	  font-size:20px;
+	  
+ }
+ .titre
+ 
+ {
+	 font-family: 'Montserrat', sans-serif;
+	 
  }
  
  header
@@ -225,6 +232,7 @@ section
 	color: white;
 	
 }
+
 .gauche
 {
 	text-align:left;

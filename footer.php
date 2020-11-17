@@ -2,7 +2,7 @@
 		<footer>
 			
 			
-			<ul class ="pos ul3">
+			<ul class ="pos ul3 titre">
 			
 			
 						<li class ='lin'> Mes réseaux (non professionel) :</li>

@@ -1,26 +1,26 @@
 <div id = "contact">
-
+ <p > <a href ="#" class ="neant3">^ </a></p>
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-<h1 > Me contacter ? </h1>    
+<h1 class = 'titre'> Me contacter ? </h1>    
     <form method="post">
 			<table>
 						<tr>
 							<td> <label>Raison ? :</label></td>
 							<td><input type="text" name="nom" id ="nom" required placeholder="Entrez la raison pour laquelle vous voulez me contacter..."></td>
 						</tr>
-					<br>
+					
 						<tr>
 							<td><label>Votre Email:</label></td>
 							<td><input type="email" name="email" id ="email" required  placeholder= "Entrez l'adresse mail sur laquelle je devrais répondre "> </td>
 						</tr>
-					<br>
+				
 						<tr>
 							<td><label>Message :</label></td>
 						</tr>
 						<tr>
 							<td colspan=2><textarea name="message" id ="message" required rows="10" cols="50"> Entrez votre message </textarea></td>
 						</tr>
-					<br>
+					
 			</table>
 		    <div class="g-recaptcha" data-sitekey="6Lf3TuAZAAAAABectoJM_byr-zZ49Zd3sCXh02g9"></div>
 			<input type="submit" value="Envoyer" id="envoyer" name="submitpost">
@@ -41,7 +41,7 @@
                         if(!empty($_POST['nom']) and !empty($_POST['email']) and !empty($_POST['message'])) //si les champs sont complétés
                         {   // ----Formats d'encodage----
                             $header ="MIMI-Version 1.0\r\n";
-                            $header .= 'From: "siteperso" <cnathanal@yahoo.com>' . "\n";
+                            $header .= 'From: "siteperso" ' . "\n";
                             $header .='Content-Type:text/html; charset="utf-8"'. "\n";
                             $header .='Content-Transfer-Encoding: 8bit';
             
@@ -54,7 +54,7 @@
                                     <ul>Message : '.nl2br($_POST['message']). '</ul>
                                 </body>
                             </html>';
-                            mail("cnathanal@yahoo.com", "Mail contact profil pro", $message, $header); //envoi du mail avec la fonction mail(adresse cible, objet, message et en-tête)
+                            mail(, "Mail contact profil pro", $message, $header); //envoi du mail avec la fonction mail(adresse cible, objet, message et en-tête)
                             $msg="<p class='form_succes'><i class='fas fa-check'></i> Votre message à bien été envoyé !</p>";
                         }else{
                             $msg="<p class='form_error'>Veuillez compléter tout les champs !</p>";

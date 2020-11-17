@@ -11,15 +11,14 @@
 	<body>
 	
 		<header>
-				<p><a href = "#n" class= "pos2" > Calligny Nathanael</a> </p>
-					<ul  class ="pos ul1">
+				<p><a href = "#n" class= "pos2 titre" > Calligny Nathanael</a> </p>
+					<ul  class ="pos ul1 titre">
 					<?php
 				
 				
-					foreach ($menu as $val){ 
-						echo $val. "\n"; 
+					foreach ($menucontenu as $val){ 
+						echo '<li class ="lin">'.$val. '</li>'."\n"; 
 					} 
-					
 					
 					
 					?>
