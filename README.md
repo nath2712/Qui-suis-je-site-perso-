@@ -11,11 +11,30 @@ All the picture use naming themself respectivly "banniéresX" and "logo" are not
 You may also use the code / web for your own use i don't care with what you do with it as long as you dont use personal link or information or claiming that you've done it if you decide to fully retake it.
 
 
+## Style :
+#### FR
 
+Police utilisé : Tahoma sans-sérif et Montserrat sans-serif
+Couleur de fond (principale) utilisé : 0685BD
+Couleur de fond (secondaire) utilisé : 2859BF
+Tout a était mis sur une seule page
 
+### EN
 
+Police use : Tahoma sans-sérif et Montserrat sans-serif
+Background color (main) use : 0685BD
+Background color(secondary) use : 2859BF
+All has been but in 1 page
 
+## Structure
+### FR
 
+Chaque partie de la page a était créer dans des fichier php différent, le contenu textuel de ceux ci se trouver dans function.php
+La page principale appeller par défaut est index.php
+
+### EN
+All the page has been created in different php file, the contenu of those is in function.php
+The main page called by default is index.php
 
 
 
