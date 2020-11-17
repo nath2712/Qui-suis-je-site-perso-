@@ -15,7 +15,7 @@ $competences=array(
              );
 
 $experiences= array(
-              "<h1 class = 'titre'> Mes Expérience : </h1>","<h2 class = 'titre'> Professionel (non lié a l'informatique): </h2>","<h4 class = 'titre'> Stage a Thélem assurance : </h4>","<a href='https://www.thelem-assurances.fr/?utm_source=bing&utm_medium=cpc&utm_campaign=AG79%20%7C%20MARQUE_PURE&utm_term=%2Bthelem%20%2Bassurances&utm_content=Marque_Pure_BMM&gclid=aa03fa4f9984124d13f6a5e78660c1b0&gclsrc=3p.ds/'><img src='image/thelem.png'  height='200' width='200'/> </a>","<p> Période stage du 03/04/2018 au 24/04/2018 </p>","<p>J'ai durant ce stage en tant que stagiaire, classé les clients de l’agence dans un dossier Excel et ensuite, j’ai contacté ceux dont le dossier était incomplet pour leur demander d’apporter le(s) document(s) manquant(s)</p>","
+              "<h1 class = 'titre'> Mes Expérience : </h1>","<h2 class = 'titre'> Professionel (non lié a l'informatique): </h2>","<h4 class = 'titre'> Stage a Thélem assurance : </h4>","<a href='https://www.thelem-assurances.fr/?utm_source=bing&utm_medium=cpc&utm_campaign=AG79%20%7C%20MARQUE_PURE&utm_term=%2Bthelem%20%2Bassurances&utm_content=Marque_Pure_BMM&gclid=aa03fa4f9984124d13f6a5e78660c1b0&gclsrc=3p.ds/'><img alt='Lien vers Thelem assurance' src='image/thelem.png'  height='200' width='200'/> </a>","<p> Période stage du 03/04/2018 au 24/04/2018 </p>","<p>J'ai durant ce stage en tant que stagiaire, classé les clients de l’agence dans un dossier Excel et ensuite, j’ai contacté ceux dont le dossier était incomplet pour leur demander d’apporter le(s) document(s) manquant(s)</p>","
 Ce stage m’a appris à travailler en équipe, à organiser mes idées et à être rigoureux dans le classement des dossiers. Il m’a fait comprendre qu’il faut s’adapter et être à l’écoute de chaque client car ils sont tous différents et ils ont des besoins et des attentes différents.
 L’ambiance était plutôt agréable et détendue, ce qui a facilité mon intégration.
 Les tâches qui m’ont été attribuées étaient adaptées à mes compétences. ",
@@ -33,11 +33,11 @@ Les tâches qui m’ont été attribuées étaient adaptées à mes compétences
 
 
 $formations= array(
-               "<h1 class = 'titre' >Mes formations en informatique: </h1>","<h4 class = 'titre'> Formation BTS SIO a l'établissement Ste Ursule de Caen en Normandie </h4>","<a href='https://www.lycee-sainte-ursule.fr/'><img src='image/stursule.jpg'  height='120' width='300'/> </a>","<p> Statut : En cours</p>","<p> Le BTS SIO a pour objectif de former des
+               "<h1 class = 'titre' >Mes formations en informatique: </h1>","<h4 class = 'titre'> Formation BTS SIO a l'établissement Ste Ursule de Caen en Normandie </h4>","<a href='https://www.lycee-sainte-ursule.fr/'><img  alt='Lien vers St ursule' src='image/stursule.jpg'  height='120' width='300'/> </a>","<p> Statut : En cours</p>","<p> Le BTS SIO a pour objectif de former des
 techniciens qui participent à la production et à la fourniture de services informatiques à une organisation, soit en tant que
 collaboratrice de cette organisation soit en
 tant qu’intervenante d’une entreprise de
-services du numérique, d’un éditeur de logiciels ou d’une société de conseil en technologies.</p>","<h4 class = 'titre'> Formation SIG a l'établissement Ste Ursule de Caen en Normandie </h4>","<a href='https://www.lycee-sainte-ursule.fr/'><img src='image/stursule.jpg'  height='120' width='300'/> </a>",
+services du numérique, d’un éditeur de logiciels ou d’une société de conseil en technologies.</p>","<h4 class = 'titre'> Formation SIG a l'établissement Ste Ursule de Caen en Normandie </h4>","<a href='https://www.lycee-sainte-ursule.fr/'><img alt='Lien vers St ursule' src='image/stursule.jpg'  height='120' width='300'/> </a>",
 			   "<p> Statut : Terminé, commencer en 2019 fini en 2020</p>","<p> Toute organisation (entreprise, association ou organisation publique) dispose d’un système d’information (SI).
 Le SI collecte, stocke, traite et diffuse de l’information. Son fonctionnement repose alors sur des
 composantes humaines, organisationnelles (processus) et technologiques (infrastructures réseau et applications logicielles notamment).

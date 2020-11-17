@@ -13,13 +13,13 @@ include "principale.php";
 <div class = "bloc">
 	<ul class = "ul2">
 	
-		<li class= "soc"> <a href = "https://discord.gg/MahhMSB"> <img src="image/discord.jpg"  height="40" width="40"/> </a> </li>
+		<li class= "soc"> <a href = "https://discord.gg/MahhMSB"> <img alt="Lien vers Discord" src="image/discord.jpg"  height="40" width="40"/> </a> </li>
 	
-		<li class= "soc"> <a href = "https://steamcommunity.com/profiles/76561198123485279/"> <img src="image/steam.jpg"  height="40" width="40"/> </a> </li>
+		<li class= "soc"> <a href = "https://steamcommunity.com/profiles/76561198123485279/"> <img  alt="Lien vers Steam" src="image/steam.jpg"  height="40" width="40"/> </a> </li>
 		
-		<li class= "soc"> <a href = "https://github.com/nath2712"> <img src="image/github.jpg"  height="40" width="40"/> </a> </li>
+		<li class= "soc"> <a href = "https://github.com/nath2712"> <img  alt="Lien vers Github" src="image/github.jpg"  height="40" width="40"/> </a> </li>
 		
-		<li class= "soc"> <a href = "https://gamejolt.com/@Histoire_dautre_monde"> <img src="image/gamejolt.jpg"  height="40" width="40"/> </a> </li>
+		<li class= "soc"> <a href = "https://gamejolt.com/@Histoire_dautre_monde"> <img  alt="Lien vers GameJolt" src="image/gamejolt.jpg"  height="40" width="40"/> </a> </li>
 		
 		
 	</ul>

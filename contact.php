@@ -15,10 +15,10 @@
 						</tr>
 				
 						<tr>
-							<td><label>Message :</label></td>
+							<td colspan="2"><label>Message :</label></td>
 						</tr>
 						<tr>
-							<td colspan=2><textarea name="message" id ="message" required rows="10" cols="50"> Entrez votre message </textarea></td>
+							<td colspan="2"><textarea name="message" id ="message" required rows="10" cols="50"> Entrez votre message </textarea></td>
 						</tr>
 					
 			</table>
