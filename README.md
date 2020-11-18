@@ -1,6 +1,8 @@
 # Qui-suis-je-site-perso-
 Version fini de mon site perso.
 
+Lien vers celui ci: https://qui-suis-je.herokuapp.com/
+
 ## Detail :
 ### FR
 Les images utilisé se nomant resctivement "banniéresX" et "logo" ne sont pas libre droit et est détenu et utilisé par le groupe "Histoire d'autre monde", par conséquent toute utilisation de ces images a un but autre que privée par une personne extérieur a "Histoire d'autre monde" aurai des conséquence judiciaire.
