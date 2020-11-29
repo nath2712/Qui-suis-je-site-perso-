@@ -1,8 +1,15 @@
 body
  {
-	 font-family: 'Montserrat', sans-serif;
+	 font-family: 'tahoma', sans-serif;
 	  margin: 0px;
 	  font-size:20px;
+	  
+ }
+ .titre
+ 
+ {
+	 font-family: 'Montserrat', sans-serif;
+	 
  }
  
  header
@@ -126,7 +133,7 @@ body
 	height: 23%;
 	width: 2%;
 	margin: 20px;
-	text-align:rigth;
+
  }
 .inssensiblien
 {
@@ -225,6 +232,7 @@ section
 	color: white;
 	
 }
+
 .gauche
 {
 	text-align:left;
